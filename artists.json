@@ -13,6 +13,10 @@
 "artistTop3": "3. Pardy",
 "artistTop4": "4. Lonely",
 "artistTop5": "5. For you",
+ "URL": "https://www.youtube.com/watch?v=ZDcrYnxUJXo",
+ "insta": "https://www.instagram.com/perrinjoseph/?hl=en",
+ "twitter": "https://twitter.com/perrinjoseph",
+ "spotify": "https://open.spotify.com/artist/7lRAZQPxYcHdSXeTndkVLM",
 "artistDescription": "Born in dubai, ethnicity Indian. I'm a vocalist and music producer living in VA. I'm currently a free agent looking for a record label. I believe that music is like a mirror, it reflects your thoughts",
 "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/perrin.PNG"
 },
@@ -28,6 +32,10 @@
 "artistTop3": "3. RITMO",
 "artistTop4": "4. Morado",
 "artistTop5": "5. La Cancion",
+  "insta": "https://www.instagram.com/jbalvin/",
+ "twitter": "https://twitter.com/JBALVIN",
+ "spotify": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis",
+   "URL": "https://www.youtube.com/watch?v=EzKkl64rRbM",
 "artistDescription": "Award-winning colombian urbano singer J Balvin is a Chart-topping recording artist whos polished urban singles('Yo te lo dije and Mi Gente') and multi-platinum-selling albums has made him a top tier latin pop crossover.",
 "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/J%20balvin.jpg"
 },
@@ -43,6 +51,10 @@
 "artistTop3": "3. Levitating",
 "artistTop4": "4. Break My Heart",
 "artistTop5": "5. One Kiss",
+  "insta": "https://www.instagram.com/dualipa/",
+ "twitter": "https://twitter.com/DUALIPA",
+ "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we",
+  "URL": "https://www.youtube.com/watch?v=WHuBW3qKm9g",
 "artistDescription": "Duo Lipa arrived in style in 2015 with her self-titled, chat topping debut album which eclipsed 4 million sales worlwide with single sales reaching over 40 million. She s also the most streamed female artist",
   "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/Dua.jpg"
 },
@@ -58,6 +70,10 @@
 "artistTop3": "3. Stupid Deep",
 "artistTop4": "4. Blu",
 "artistTop5": "5. Guillotine",
+  "insta": "https://www.instagram.com/jonbellion/",
+ "twitter": "https://twitter.com/jonbellion",
+ "spotify": "https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg",
+"URL": "https://www.youtube.com/watch?v=EtlZV2EaZBQ",
 "artistDescription": "Singer/ Songwriter Jon Bellion makes contemporary pop that mixes R&B, hip-hop and indie rock influences. Jon's big hit was All time low, streaming about 500 million on spotify.",
   "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/Jon.jpg"
 },
@@ -73,6 +89,10 @@
 "artistTop3": "3. God's Plan",
 "artistTop4": "4. In My Feelings",
 "artistTop5": "5. Survival",
+  "insta": "https://www.instagram.com/champagnepapi/",
+ "twitter": "https://twitter.com/Drake",
+ "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4",
+ "URL": "https://www.youtube.com/watch?v=xpVfcZ0ZcFM",
 "artistDescription": "Canadian Rapper and Vocalist Drake sustained a high-level commercial presence shorttly after he hit the scene in 2006, whether with his own chat topping releases or a long string of guest appearence on hits by lil wayne, Rihanna and A$AP Rocky.",
  "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/drake.jpg"
 },
@@ -88,6 +108,10 @@
 "artistTop3": "3. Pardy",
 "artistTop4": "4. Lonely",
 "artistTop5": "5. For you",
+  "insta": "https://www.instagram.com/zayn/",
+ "twitter": "https://twitter.com/zaynmalik",
+ "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81",
+  "URL": "https://www.youtube.com/watch?v=cHOrHGpL4u0",
 "artistDescription": "Zayn Malik is best known as one of the founding members of the chart-topping boy-band of a generation One Direction. Zayn auditioned for the X Factor in 2010, but was eliminated, he definitly proved him self later.",
   "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/zayn.jpg"
 },
@@ -103,6 +127,10 @@
 "artistTop3": "3. Breakeven",
 "artistTop4": "4. The Last Time",
 "artistTop5": "5. howl At the moon",
+  "insta": "https://www.instagram.com/thescriptofficial/",
+ "twitter": "https://twitter.com/thescript",
+ "spotify": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V",
+ "URL": "https://www.youtube.com/watch?v=MzCLLHscMOw",
 "artistDescription": "The Script are one of the world's more successful bands with over 30 million records sold and multiple sell out global tours under their belts.",
   "artistPicture": "https://raw.githubusercontent.com/perrinjoseph/JSONProjectsIT315/master/Script.jpg"
 }
